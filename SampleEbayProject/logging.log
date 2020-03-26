@@ -1,0 +1,209 @@
+2020-03-25 06:29:00 INFO  Helper:73 - Test Execution started
+2020-03-25 06:29:00 INFO  Helper:31 - Appium server is stoped
+2020-03-25 06:29:09 INFO  Helper:20 - Appium server is started
+2020-03-25 06:29:31 INFO  Helper:92 - Test Execution completed
+2020-03-25 06:29:31 INFO  Helper:96 - Output Stream is not used
+2020-03-25 06:29:31 INFO  Helper:101 - Input Stream is not used
+2020-03-25 06:29:55 INFO  Helper:73 - Test Execution started
+2020-03-25 06:29:55 INFO  Helper:31 - Appium server is stoped
+2020-03-25 06:30:00 INFO  Helper:20 - Appium server is started
+2020-03-25 06:30:04 INFO  Helper:92 - Test Execution completed
+2020-03-25 06:30:04 INFO  Helper:96 - Output Stream is not used
+2020-03-25 06:30:04 INFO  Helper:101 - Input Stream is not used
+2020-03-25 06:35:23 INFO  Helper:73 - Test Execution started
+2020-03-25 06:35:33 INFO  Helper:92 - Test Execution completed
+2020-03-25 06:35:33 INFO  Helper:96 - Output Stream is not used
+2020-03-25 06:35:33 INFO  Helper:101 - Input Stream is not used
+2020-03-25 12:53:54 INFO  Helper:78 - Test Execution started
+2020-03-25 12:54:43 INFO  Helper:78 - Test Execution started
+2020-03-25 12:55:21 INFO  Helper:78 - Test Execution started
+2020-03-25 15:00:16 INFO  Helper:71 - App is launched
+2020-03-25 15:00:25 INFO  Helper:90 - Test Execution completed
+2020-03-25 15:00:25 INFO  Helper:94 - Output Stream is not used
+2020-03-25 15:00:25 INFO  Helper:99 - Input Stream is not used
+2020-03-25 15:01:10 INFO  Helper:71 - App is launched
+2020-03-25 15:01:20 INFO  Helper:90 - Test Execution completed
+2020-03-25 15:01:20 INFO  Helper:94 - Output Stream is not used
+2020-03-25 15:01:20 INFO  Helper:99 - Input Stream is not used
+2020-03-25 15:03:49 INFO  Helper:71 - App is launched
+2020-03-25 15:03:58 INFO  Helper:90 - Test Execution completed
+2020-03-25 15:03:58 INFO  Helper:94 - Output Stream is not used
+2020-03-25 15:03:58 INFO  Helper:99 - Input Stream is not used
+2020-03-25 15:04:54 INFO  Helper:71 - App is launched
+2020-03-25 15:07:01 INFO  Helper:71 - App is launched
+2020-03-25 15:08:47 INFO  Helper:71 - App is launched
+2020-03-25 15:10:39 INFO  Helper:70 - App is launched
+2020-03-25 15:11:45 INFO  Helper:70 - App is launched
+2020-03-25 16:30:45 INFO  Helper:70 - App is launched
+2020-03-25 17:42:42 INFO  Helper:69 - App is launched
+2020-03-25 17:47:20 INFO  Helper:69 - App is launched
+2020-03-25 17:48:09 INFO  Helper:88 - Test Execution completed
+2020-03-25 17:48:09 INFO  Helper:92 - Output Stream is not used
+2020-03-25 17:48:09 INFO  Helper:97 - Input Stream is not used
+2020-03-25 17:59:15 INFO  Helper:69 - App is launched
+2020-03-25 18:00:34 INFO  Helper:88 - Test Execution completed
+2020-03-25 18:00:34 INFO  Helper:92 - Output Stream is not used
+2020-03-25 18:00:34 INFO  Helper:97 - Input Stream is not used
+2020-03-25 18:01:31 INFO  Helper:69 - App is launched
+2020-03-25 18:02:19 INFO  Helper:88 - Test Execution completed
+2020-03-25 18:02:19 INFO  Helper:92 - Output Stream is not used
+2020-03-25 18:02:19 INFO  Helper:97 - Input Stream is not used
+2020-03-25 18:05:25 INFO  Helper:69 - App is launched
+2020-03-25 18:06:14 INFO  Helper:88 - Test Execution completed
+2020-03-25 18:06:14 INFO  Helper:92 - Output Stream is not used
+2020-03-25 18:06:14 INFO  Helper:97 - Input Stream is not used
+2020-03-25 18:11:58 INFO  Helper:69 - App is launched
+2020-03-25 18:16:53 INFO  Helper:69 - App is launched
+2020-03-25 18:46:11 INFO  Helper:69 - App is launched
+2020-03-25 18:46:45 INFO  Helper:88 - Test Execution completed
+2020-03-25 18:46:45 INFO  Helper:92 - Output Stream is not used
+2020-03-25 18:46:45 INFO  Helper:97 - Input Stream is not used
+2020-03-25 19:10:46 INFO  Helper:70 - App is launched
+2020-03-25 19:11:57 INFO  Helper:89 - Test Execution completed
+2020-03-25 19:11:57 INFO  Helper:93 - Output Stream is not used
+2020-03-25 19:11:57 INFO  Helper:98 - Input Stream is not used
+2020-03-25 19:12:39 INFO  Helper:70 - App is launched
+2020-03-25 19:13:53 INFO  Helper:70 - App is launched
+2020-03-25 19:51:29 INFO  Helper:70 - App is launched
+2020-03-25 19:52:40 INFO  Helper:89 - Test Execution completed
+2020-03-25 19:52:40 INFO  Helper:93 - Output Stream is not used
+2020-03-25 19:52:40 INFO  Helper:98 - Input Stream is not used
+2020-03-25 19:57:29 INFO  Helper:70 - App is launched
+2020-03-25 20:00:32 INFO  Helper:41 - Unable to click on element. trying to click again
+2020-03-25 20:00:35 INFO  Helper:41 - Unable to click on element. trying to click again
+2020-03-25 20:01:20 INFO  Helper:70 - App is launched
+2020-03-25 20:06:35 INFO  Helper:70 - App is launched
+2020-03-25 20:21:17 INFO  Helper:70 - App is launched
+2020-03-25 20:26:57 INFO  Helper:70 - App is launched
+2020-03-25 20:29:24 INFO  Helper:70 - App is launched
+2020-03-25 20:32:40 INFO  Helper:70 - App is launched
+2020-03-25 20:34:37 INFO  Helper:70 - App is launched
+2020-03-25 20:36:42 INFO  Helper:70 - App is launched
+2020-03-25 20:38:34 INFO  Helper:70 - App is launched
+2020-03-25 20:38:54 INFO  Helper:89 - Test Execution completed
+2020-03-25 20:38:54 INFO  Helper:93 - Output Stream is not used
+2020-03-25 20:38:54 INFO  Helper:98 - Input Stream is not used
+2020-03-25 20:38:55 INFO  Helper:70 - App is launched
+2020-03-25 20:45:28 INFO  Helper:70 - App is launched
+2020-03-25 20:47:33 INFO  Helper:70 - App is launched
+2020-03-25 20:50:21 INFO  Helper:70 - App is launched
+2020-03-25 20:57:34 INFO  Helper:70 - App is launched
+2020-03-25 21:02:58 INFO  Helper:70 - App is launched
+2020-03-25 22:54:07 INFO  Helper:70 - App is launched
+2020-03-25 22:57:06 INFO  Helper:70 - App is launched
+2020-03-25 23:01:20 INFO  Helper:70 - App is launched
+2020-03-25 23:03:46 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:03:46 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:03:46 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:05:22 INFO  Helper:70 - App is launched
+2020-03-25 23:13:31 INFO  Helper:70 - App is launched
+2020-03-25 23:19:55 INFO  Helper:70 - App is launched
+2020-03-25 23:22:26 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:22:26 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:22:26 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:35:57 INFO  Helper:70 - App is launched
+2020-03-25 23:46:31 INFO  Helper:70 - App is launched
+2020-03-25 23:46:49 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:46:49 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:46:49 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:49:14 INFO  Helper:70 - App is launched
+2020-03-25 23:49:32 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:49:32 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:49:32 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:52:54 INFO  Helper:70 - App is launched
+2020-03-25 23:53:11 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:53:11 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:53:11 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:54:20 INFO  Helper:70 - App is launched
+2020-03-25 23:54:37 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:54:37 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:54:37 INFO  Helper:98 - Input Stream is not used
+2020-03-25 23:56:04 INFO  Helper:70 - App is launched
+2020-03-25 23:56:22 INFO  Helper:89 - Test Execution completed
+2020-03-25 23:56:22 INFO  Helper:93 - Output Stream is not used
+2020-03-25 23:56:22 INFO  Helper:98 - Input Stream is not used
+2020-03-26 00:06:32 INFO  Helper:70 - App is launched
+2020-03-26 00:11:28 INFO  Helper:70 - App is launched
+2020-03-26 00:15:26 INFO  Helper:70 - App is launched
+2020-03-26 00:21:09 INFO  Helper:70 - App is launched
+2020-03-26 00:24:34 INFO  Helper:70 - App is launched
+2020-03-26 00:35:31 INFO  Helper:70 - App is launched
+2020-03-26 00:58:39 INFO  Helper:70 - App is launched
+2020-03-26 01:02:03 INFO  Helper:70 - App is launched
+2020-03-26 01:03:50 INFO  Helper:70 - App is launched
+2020-03-26 01:29:03 INFO  Helper:70 - App is launched
+2020-03-26 01:30:09 INFO  Helper:89 - Test Execution completed
+2020-03-26 01:30:09 INFO  Helper:93 - Output Stream is not used
+2020-03-26 01:30:09 INFO  Helper:98 - Input Stream is not used
+2020-03-26 01:34:58 INFO  Helper:70 - App is launched
+2020-03-26 02:15:45 INFO  Helper:64 - application started in device
+2020-03-26 02:15:45 INFO  Helper:71 - App is launched
+2020-03-26 02:16:03 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:18:44 INFO  Helper:64 - application started in device
+2020-03-26 02:18:44 INFO  Helper:71 - App is launched
+2020-03-26 02:19:03 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:20:14 INFO  Helper:64 - application started in device
+2020-03-26 02:20:14 INFO  Helper:71 - App is launched
+2020-03-26 02:20:32 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:22:11 INFO  Helper:64 - application started in device
+2020-03-26 02:22:11 INFO  Helper:71 - App is launched
+2020-03-26 02:22:31 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:23:43 INFO  Helper:64 - application started in device
+2020-03-26 02:23:43 INFO  Helper:71 - App is launched
+2020-03-26 02:24:02 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:26:35 INFO  Helper:64 - application started in device
+2020-03-26 02:26:35 INFO  Helper:71 - App is launched
+2020-03-26 02:26:54 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:29:01 INFO  Helper:64 - application started in device
+2020-03-26 02:29:01 INFO  Helper:71 - App is launched
+2020-03-26 02:29:20 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:30:43 INFO  Helper:90 - Test Execution completed
+2020-03-26 02:30:44 INFO  Helper:19 - Default test test case is completed
+2020-03-26 02:32:41 INFO  Helper:64 - application started in device
+2020-03-26 02:32:41 INFO  Helper:71 - App is launched
+2020-03-26 02:32:59 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:34:49 INFO  Helper:63 - application started in device
+2020-03-26 02:34:49 INFO  Helper:71 - App is launched
+2020-03-26 02:35:09 INFO  Helper:87 - CartValidation test case started
+2020-03-26 02:36:40 INFO  Helper:63 - application started in device
+2020-03-26 02:36:40 INFO  Helper:71 - App is launched
+2020-03-26 02:36:58 INFO  Helper:84 - CartValidation test case started
+2020-03-26 02:38:29 INFO  Helper:35 - clicked on elementProxy element for: DefaultElementLocator 'By.id: com.amazon.mShop.android.shopping:id/skip_sign_in_button'
+2020-03-26 02:38:47 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: com.amazon.mShop.android.shopping:id/rs_search_src_text]
+2020-03-26 02:39:19 INFO  Helper:113 - swiped up
+2020-03-26 02:39:25 INFO  Helper:227 -  text  fetched from the app is:?9,499 ?16,328
+2020-03-26 02:46:45 INFO  Helper:63 - application started in device
+2020-03-26 02:46:45 INFO  Helper:71 - App is launched
+2020-03-26 02:47:05 INFO  Helper:84 - CartValidation test case started
+2020-03-26 02:48:28 INFO  Helper:35 - clicked on elementProxy element for: DefaultElementLocator 'By.id: com.amazon.mShop.android.shopping:id/skip_sign_in_button'
+2020-03-26 02:48:30 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: com.amazon.mShop.android.shopping:id/rs_search_src_text]
+2020-03-26 02:48:49 INFO  Helper:113 - swiped up
+2020-03-26 02:48:54 INFO  Helper:227 -  text  fetched from the app is:?10,499 ?15,498
+2020-03-26 02:51:38 INFO  Helper:46 - Unable to click on element. trying to click again
+2020-03-26 02:52:35 INFO  Helper:63 - application started in device
+2020-03-26 02:52:35 INFO  Helper:71 - App is launched
+2020-03-26 02:52:57 INFO  Helper:84 - CartValidation test case started
+2020-03-26 02:54:21 INFO  Helper:35 - clicked on elementProxy element for: DefaultElementLocator 'By.id: com.amazon.mShop.android.shopping:id/skip_sign_in_button'
+2020-03-26 02:54:22 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: com.amazon.mShop.android.shopping:id/rs_search_src_text]
+2020-03-26 02:54:41 INFO  Helper:113 - swiped up
+2020-03-26 02:54:47 INFO  Helper:227 -  text  fetched from the app is:?9,499 ?16,328
+2020-03-26 02:56:08 INFO  Helper:35 - clicked on elementProxy element for: DefaultElementLocator 'By.xpath: //android.widget.TextView[@resource-id='com.amazon.mShop.android.shopping:id/item_title' and contains(@text, 'Curved LED Backlit')]'
+2020-03-26 02:56:14 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: com.amazon.mShop.android.shopping:id/action_bar_cart]
+2020-03-26 02:56:16 INFO  Helper:113 - swiped up
+2020-03-26 02:56:18 INFO  Helper:113 - swiped up
+2020-03-26 02:56:21 INFO  Helper:113 - swiped up
+2020-03-26 02:56:23 INFO  Helper:113 - swiped up
+2020-03-26 02:56:29 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: add-to-cart-button]
+2020-03-26 02:56:32 INFO  Helper:35 - clicked on element[[io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, autoAcceptAlerts=true, autoGrantPermissions=true, automationName=UiAutomator, databaseEnabled=false, desired={app=C:\Users\Jenisha\eclipse-workspace\SampleEbayProject\apkFiles\Amazon_shopping.apk, appActivity=com.amazon.mShop.home.HomeActivity, appPackage=com.amazon.mShop.android.shopping, locationServicesAuthorized=true, platformVersion=6.0.1, automationName=UiAutomator, autoGrantPermissions=true, deviceOrientation=portrait, platformName=Android, deviceName=Moto G3, autoAcceptAlerts=true}, deviceManufacturer=motorola, deviceModel=MotoG3, deviceName=ZY2237GFNH, deviceOrientation=portrait, deviceScreenSize=720x1280, deviceUDID=ZY2237GFNH, javascriptEnabled=true, locationContextEnabled=false, locationServicesAuthorized=true, networkConnectionEnabled=true, platform=LINUX, platformName=Android, platformVersion=6.0.1, takesScreenshot=true, warnings={}, webStorageEnabled=false}] -> id: com.amazon.mShop.android.shopping:id/action_bar_cart]
+2020-03-26 02:56:34 INFO  Helper:227 -  text  fetched from the app is:in Monitors
+2020-03-26 02:56:36 INFO  Helper:65 - The name of the testcase failed is :CartValidation
+2020-03-26 02:56:38 INFO  Helper:90 - Test Execution completed
+2020-03-26 02:56:39 INFO  Helper:19 - Default test test case is completed
+2020-03-26 03:02:42 INFO  Helper:63 - application started in device
+2020-03-26 03:02:42 INFO  Helper:71 - App is launched
+2020-03-26 03:03:13 INFO  Helper:82 - test test case started
+2020-03-26 03:03:13 INFO  Helper:90 - The name of the testcase passed is :test
+2020-03-26 03:03:15 INFO  Helper:90 - Test Execution completed
+2020-03-26 03:03:16 INFO  Helper:17 - Default test test case is completed
+2020-03-26 03:07:33 INFO  Helper:63 - application started in device
+2020-03-26 03:07:33 INFO  Helper:71 - App is launched
