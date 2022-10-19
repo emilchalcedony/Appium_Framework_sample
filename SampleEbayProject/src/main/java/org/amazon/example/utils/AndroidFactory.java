@@ -28,7 +28,7 @@ public class AndroidFactory extends Helper {
 		capabilities.setCapability("autoGrantPermissions", true);
 		capabilities.setCapability("platformName", "Android");
 		capabilities.setCapability("app", app.getAbsolutePath());
-		capabilities.setCapability("automationName", "UiAutomator");
+
 
 		driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
 		driver.manage().timeouts().implicitlyWait(80, TimeUnit.SECONDS);

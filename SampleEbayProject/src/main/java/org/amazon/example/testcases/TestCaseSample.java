@@ -25,25 +25,6 @@ public class TestCaseSample extends Helper {
 
 	}
 
-	@Test(description = "Price validation of Cart with search results", enabled = true)
-	public static void CartValidation() throws Exception {
-		signuppage = new SignUpPage(driver);
-		mainpage = new AppMainPage(driver);
-		cartpage = new CartPage(driver);
 
-		signuppage.signUpSkip();
-
-		mainpage.productSearch("samsung smart tv");
-		String priceinsearch = mainpage.priceinsearch();
-		mainpage.productSelection();
-
-		cartpage.cartButton();
-
-		// Price validation
-
-		String priceinCart = cartpage.productPrice();
-		Assert.assertEquals(priceinCart, priceinsearch);
-
-	}
 
 }

@@ -207,3 +207,30 @@
 2020-03-26 03:03:16 INFO  Helper:17 - Default test test case is completed
 2020-03-26 03:07:33 INFO  Helper:63 - application started in device
 2020-03-26 03:07:33 INFO  Helper:71 - App is launched
+2022-10-18 16:47:19 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:47:19 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:47:19 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 16:48:00 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:48:00 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:48:00 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 16:48:26 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:48:26 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:48:26 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 16:56:59 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:56:59 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:56:59 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 16:58:32 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:58:32 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:58:32 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 16:59:01 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 16:59:01 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 16:59:01 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 17:54:58 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 17:54:58 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 17:54:58 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 18:33:48 INFO  Helper:82 - skipbuttonValidation test case started
+2022-10-18 18:33:48 INFO  Helper:69 - The name of the testcase Skipped is :skipbuttonValidation
+2022-10-18 18:33:48 INFO  Helper:17 - Appium_Framework_sample test case is completed
+2022-10-18 20:10:10 INFO  Helper:71 - application started in device
+2022-10-18 20:10:10 INFO  Helper:71 - App is launched
+2022-10-18 20:10:13 INFO  Helper:82 - skipbuttonValidation test case started
